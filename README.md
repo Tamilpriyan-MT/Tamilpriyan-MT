@@ -3,9 +3,9 @@
 <br/>
 
 ## Hey!, I'm <a href="https://www.linkedin.com/in/tamilpriyan-mt" target="_blank">Tamilpriyan M</a>!
-.Pursuing a degree in Artificial Intelligence and Data Science 🤖📊 <br>
-.🎵 I'm Music Artist 🎶 Creating vibes & beats for your ears 🎧<br>
-.Connect with me on LinkedIn!
+Pursuing a degree in Artificial Intelligence and Data Science 🤖📊 <br>
+🎵 I'm Music Artist 🎶 Creating vibes & beats for your ears 🎧<br>
+Connect with me on LinkedIn!
 (Use following link to find my socials ;)
 
 <a href="https://www.linkedin.com/in/tamilpriyan-mt" target="_blank"><img align="left" alt="Tamilpriyan M | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
